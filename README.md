@@ -40,4 +40,4 @@ this is a normal text
 
 \**nothing*\*
 
-want more? read [here](hello-world/more readme.md) (arghh not working lol)
+want more? read [here](hello-world/more readme.md) (tell me if the link works)
