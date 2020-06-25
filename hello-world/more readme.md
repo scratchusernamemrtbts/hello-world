@@ -3,6 +3,4 @@
 ### if you like it give me a love and fave
 #### or maybe a follow
 
-bye bye! checkout my slide
-
-https://scratchusernamemrtbts.github.io/github-slideshow/#
+bye bye! checkout my slide [here](https://scratchusernamemrtbts.github.io/github-slideshow/#)
